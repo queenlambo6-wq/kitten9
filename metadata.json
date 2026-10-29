@@ -2,5 +2,7 @@
   "name": "Gatitos Enespana | Gatitos de Raza en España",
   "description": "Gatitos Enespana: criadero familiar de gatitos de raza en España. 15 razas, vacunados, con microchip, garantía de salud de 2 años y envío a toda España.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
